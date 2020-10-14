@@ -11,6 +11,7 @@ using System.Drawing.Drawing2D;
 
 namespace CompGraphisc_Number_1
 {
+    //Вывод своего имени с масштабированием 
     public partial class Form1 : Form
     {
         public Form1()
