@@ -280,6 +280,8 @@ namespace CompGraphisc_Number_1
             e.Graphics.ExcludeClip(gp);
             e.Graphics.ExcludeClip(gp2);
             e.Graphics.FillPath(brush, path);
+
+            // Вывод своего имени спомощью прямых на C# с автоматическим масштабированием        
         } 
     }
 }
